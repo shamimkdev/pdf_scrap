@@ -1,0 +1,18 @@
+{
+    "Step 1": [
+        "Required",
+        "DOCKER"
+    ],
+    "Step 2": [
+        "Required",
+        "KUBERNETES"
+    ],
+    "Step 3": [
+        "Optional \u2192 Added Advantage",
+        "ARGOCD"
+    ],
+    "Step 4": [
+        "Optional \u2192 Added Advantage",
+        "TEKTON"
+    ]
+}
